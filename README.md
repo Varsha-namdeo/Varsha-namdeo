@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varsha Namdeo</h1>
 
-<h3 align="center">Data Analyst & Scientist</h3>
+<h3 align="center">Data and AI Engineer</h3>
 <p align="center"><em>Turning Complex Data into Clear Insights and Smart Predictions</em></p>
 
 ---
